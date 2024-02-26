@@ -1,4 +1,4 @@
-## Sales Insights Data Analysis Project
+## Sales Insights Analysis 
 
 1. SQL database dump is in db_dump.sql file above. Download `db_dump.sql` file to your local computer and import it as per instructions given in the tutorial video
 
@@ -42,7 +42,7 @@
 and transactions.market_code="Mark001";`
 
 
-Data Analysis Using Power BI
+Business Analysis Using Power BI
 ============================
 
 1. Formula to create norm_amount column
